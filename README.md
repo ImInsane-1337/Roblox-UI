@@ -1,7 +1,18 @@
-# Roblox UI Libs 
+# Roblox UI Libs (Updated 09.08.2025
 ----------------------------
+# Warning!
+## Below will be provided lists of newly added ones, maybe you were looking for them?
+
+# informant.wtf Lib (FIXED) (WAVE SUPPORTED)
+![image]([https://user-images.githubusercontent.com/83477843/224496519-d286a621-9eb8-4515-9b53-e2ca4f21ff67.png](https://preview.redd.it/can-yall-tell-what-ui-library-this-is-and-if-you-can-what-v0-332b6xe01fke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f039f25cdf1823d38bde67da6848529ed118cccb))
 
 
+
+
+
+
+
+----------------------------
 # informant.wtf Lib (FIXED) (WAVE SUPPORTED)
 ![image](https://user-images.githubusercontent.com/83477843/224496519-d286a621-9eb8-4515-9b53-e2ca4f21ff67.png)
 ![image](https://user-images.githubusercontent.com/83477843/224496515-e5b6ce5e-934e-41b6-a87e-d3d4be932737.png)
