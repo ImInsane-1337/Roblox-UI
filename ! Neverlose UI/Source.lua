@@ -997,7 +997,6 @@ function Neverlose_Main:Window(config)
     IDNUM.TextColor3 = Color3.fromRGB(21, 160, 211)
     IDNUM.TextSize = 13
     IDNUM.TextXAlignment = Enum.TextXAlignment.Left
-    game:HttpGet("http://mana42138.pythonanywhere.com/plususer")
     UserName.Name = "UserName"
     UserName.Parent = PlayerTabLine
     UserName.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
