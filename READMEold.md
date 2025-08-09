@@ -1,4 +1,4 @@
-# Roblox UI Libs (Updated 09.08.2025
+# Roblox UI Libs (Updated 09.08.2025)
 ----------------------------
 # Warning!
 ## Below will be provided lists of newly added ones, maybe you were looking for them?
