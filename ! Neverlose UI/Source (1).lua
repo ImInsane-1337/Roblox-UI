@@ -77,7 +77,7 @@ function Neverlose_Main:PlaySound(SoundID)
     sound:Play()
 end
 
-local BuildInfo = loadstring(game:HttpGet"https://pastebin.com/raw/HzAeDGm4")()
+local BuildInfo = "1.1"
 
 local function MakeDraggable(topbarobject, object)
     local Dragging = nil
